@@ -1,0 +1,6 @@
+# Project exclude paths
+/eurekaclient/target/
+/eurekaserver/target/
+/hystrix/target/
+/nativeconfigclient/target/
+/nativeconfigserver/target/
